@@ -1,0 +1,5 @@
+---
+- git:
+    repo: 'https://github.com/jbs321/bmdrivingschool.git'
+    dest: {{ bmdrivingschool_location }}
+    version: master
