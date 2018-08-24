@@ -44,6 +44,5 @@
 
 
 #Custom Hosts - Jacob
-[wordpress]
-178.128.181.49
-138.68.227.194
+[webservers]
+178.128.6.232
